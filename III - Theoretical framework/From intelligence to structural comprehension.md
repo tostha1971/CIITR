@@ -88,7 +88,7 @@ Rhythmic reach R<sub>g</sub> is treated in CIITR as a structural and dynamical p
 
 First, rhythmic coordination requires that the system exhibits coherent temporal structure across epistemic modes. Let θ<sub>i</sub>(t) be a phase representation of N epistemic modes extracted from x(t), for instance via analytic signal decomposition or spectral analysis. A standard order parameter for synchronisation on T is
 
-\[ R_{\mathrm{sync}}(S, T) = \frac{1}{|T|} \int_{T} \left| \frac{1}{N} \sum_{i=1}^{N} e^{i\theta_i(t)} \right| \, dt \]
+$$ R_{\mathrm{sync}}(S,T)=\frac{1}{|T|}\int_T\left|\frac{1}{N}\sum_{i=1}^N e^{i\theta_i(t)}\right|dt $$
 
 This quantity is high when modes are phase aligned over T and low when they drift independently. It captures rhythmic organisation, not content.
 
