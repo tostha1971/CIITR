@@ -118,9 +118,6 @@ Where Φ<sub>i</sub> quantifies integration (the unity of structure), R<sub>g</s
 
 ## 3.7. Structural comprehension as a bridge between IIT and GWT
 
-```md
-## 3.7. Structural comprehension as a bridge between IIT and GWT
-
 IIT and GWT have traditionally been seen as competing paradigms, one emphasizing integration, the other global broadcasting.[9] Yet both converge on the intuition that understanding arises when local processes become globally coherent.
 
 *C<sub>s</sub> = Φ<sub>i</sub> × R<sub>g</sub>* proposes a minimal synthesis:
