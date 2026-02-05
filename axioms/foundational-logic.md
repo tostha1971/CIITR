@@ -33,3 +33,13 @@ CIITR is physically grounded. Every act of comprehension entails an energetic co
 * Each **rhythmic broadcast** ($R^g$) requires temporal stability.
 
 $C_s$ therefore reflects not only informational order, but **energetic efficiency**: a system’s ability to maintain structured coherence with minimal entropy production. Understanding is an energetic configuration of matter and time.
+
+---
+
+## Information–Energy Equivalence
+CIITR is physically grounded, acknowledging that every act of comprehension entails an energetic cost. Building on Landauer’s Principle and thermodynamic constraints, the model treats comprehension as a process governed by physical laws.
+
+* **Energetic Dissipation:** Each integration of relational information ($\Phi_i$) requires energy.
+* **Temporal Stability:** Each rhythmic broadcast ($R^g$) requires the expenditure of energy to maintain coherence against entropy.
+
+$C_s$ therefore reflects not only informational order but **energetic efficiency**: a system’s ability to maintain structured coherence with minimal entropy production. Understanding is an energetic configuration of matter and time.
