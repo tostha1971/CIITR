@@ -76,7 +76,9 @@ Empirically, ±R<sub>g</sub> can be estimated through the phase-synchronization 
 
 Combined, these yield a composite measure:
 
-R<sub>g</sub>=E"  "⋅"  " P"  "⋅"  " PLV"  "⋅"  "⟨cos⁡Δφ⟩∈[-1,1]
+$$
+R_g = E \cdot P \cdot \mathrm{PLV} \cdot \langle \cos \Delta \varphi \rangle \in [-1,1]
+$$
 
 where Δφ is the phase difference between local and global oscillations.  Comprehension is costly; without energy input (ΔE = 0), R<sub>g</sub> inevitably decays.
 
