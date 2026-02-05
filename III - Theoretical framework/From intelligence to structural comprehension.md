@@ -98,11 +98,11 @@ Third, rhythmic reach must be energetically grounded. Let ℰ(S, T) be an estima
 
 In CIITR these components are combined in a composite functional of the form
 
-R^g (S,T)" "=" " α" " R_"sync"  (S,T)⋅κ(S,T)⋅f(E(S,T)),
+$$ R^{g}(S,T)=\alpha\,R_{\mathrm{sync}}(S,T)\cdot\kappa(S,T)\cdot f\!\left(E(S,T)\right) $$
 
 where α is a normalisation constant and f is a monotone function that maps energy usage into a bounded factor. The precise choice of f and of the operational definitions of R_{\text{sync}} and κ depends on the level of analysis, for example neural, circuit level or model activation level, and is specified in the measurement sections and appendices. The crucial point is that R<sub>g</sub> is defined purely in terms of observable dynamics and energetic work. Comprehension C<sub>s</sub> is then defined as
 
-C<sub>s</sub> (S,T)" "=" " Φ<sub>i</sub> (S,T)⋅R<sub>g</sub> (S,T),
+$$ C_{s}(S,T)=\Phi_{i}(S,T)\cdot R_{g}(S,T) $$
 
 where Φ<sub>i</sub> is an independently defined measure of internal informational integration. Apparent understanding or lack of understanding in narrative behaviour does not enter the definition of either Φ<sub>i</sub> or R<sub>g</sub>.
 
