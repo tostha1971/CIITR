@@ -33,3 +33,14 @@ To know is not to store, or to compute, but to remain in resonance with change, 
 This is the law that governs every form of living intelligence, biological, social, or yet to be conceived:
 
 **no rhythm, no understanding.**
+
+
+
+---
+
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
+Version: 1.0  
+Initial publication: 2026-02-05  
+Last modified: 2026-02-05

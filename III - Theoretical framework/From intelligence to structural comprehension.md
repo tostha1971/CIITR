@@ -239,3 +239,14 @@ The interaction among these pillars defines structural comprehension as a measur
 **[10]** METAINT (short for Metastructural Intelligence) is a theoretical and doctrinal framework …
 
 **[11]** The notion that every formal system or scientific model must acknowledge its own boundaries …
+
+
+
+---
+
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
+Version: 1.0  
+Initial publication: 2026-02-05  
+Last modified: 2026-02-05

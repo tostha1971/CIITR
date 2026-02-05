@@ -50,3 +50,14 @@ By framing comprehension as a structural phenomenon rather than a semantic one, 
 **[1]** The absence of non-semantic quantitative models of comprehension is documented across major schools of information and complexity theory. Shannon defined information as uncertainty reduction while explicitly excluding meaning. Weaver identified this exclusion as a limitation for higher-order cognition. Complexity theorists described emergence and order parameters without defining comprehension as a measurable system property. In cognitive science and artificial intelligence, perception and inference have largely been formulated in semantic or goal-oriented terms rather than structural ones. Only Integrated Information Theory and Global Workspace Theory approached comprehension in formal terms, yet both remain constrained to biological consciousness and semantic anchoring.
 
 **[2]** CIITR extends Integrated Information Theory and Global Workspace Theory by abstracting their shared structural principles, integration and global broadcasting, from phenomenological and semantic assumptions. It redefines comprehension as the structural covariance between Φᵢ and Rᵍ, enabling application across biological, organizational, and artificial systems.
+
+
+
+---
+
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
+Version: 1.0  
+Initial publication: 2026-02-05  
+Last modified: 2026-02-05

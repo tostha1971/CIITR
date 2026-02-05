@@ -55,3 +55,14 @@ Thus the first axiom of CIITR 1.9 may now be stated:
 If a system relies on persistence alone to reference prior representations, without rhythmic re-entry independent of stored state, then R<sub>g</sub> = 0, and therefore C<sub>s</sub> = 0 regardless of Φ<sub>i</sub> magnitude.
 
 In traditional AI discourse, memory aids performance. In CIITR, memory does not aid comprehension unless it is transcended through rhythmic transformation. Persistence is the survival of information. Comprehension is the survival of relation.
+
+
+
+---
+
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
+Version: 1.0  
+Initial publication: 2026-02-05  
+Last modified: 2026-02-05
