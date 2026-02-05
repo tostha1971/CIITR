@@ -53,7 +53,9 @@ All structural compositions and formula derivations are copyright protected.
 
 ---
 
-© Tor-Ståle Hansen, CC BY-NC-ND 4.0  
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
 Version: 1.0  
 Initial publication: 2026-02-05  
 Last modified: 2026-02-05
