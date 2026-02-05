@@ -8,6 +8,6 @@ The CIITR agent is a specialized instrument. It should be used for:
 
 ### Inappropriate Use (Prohibited)
 Using the agent for the following will **degrade inferential discipline**:
-* **General Conversation:** Do not use it as a "chatbot."
+* **General Conversation:** Do not use it as a "chatbot" .. surface-level interaction or simulation.
 * **Creative Writing:** Do not ask it to generate stories or poetry.
 * **Emotional/Moral Guidance:** The agent lacks a semantic/moral compass; it only sees structure.

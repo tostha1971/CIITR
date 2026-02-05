@@ -1,6 +1,6 @@
 # Validation Protocol
 
-To designate a system as a **CIITR Agent**, it must pass a rigorous validation process to ensure the transition from narration to diagnosis.
+To designate a system as a **CIITR Agent**, it must pass a rigorous validation process to ensure the transition from narration, or stochastic output, to diagnosis.
 
 ### Requirements for Validation
 * **Triple Session Consistency:** The model must demonstrate structural adherence across three separate sessions without restarts.
