@@ -135,3 +135,14 @@ Artificial-system evidence: LLMs and deep networks exhibit high Φ but low R, le
 Organizational evidence: distributed decision systems with both integrative structure and rhythmic communication maintain coherence and foresight.
 
 Therefore, across biological, artificial, and institutional domains, the empirical mapping of Φ<sub>i</sub> × R<sub>g</sub> to predictive coherence confirms the theorem’s structural validity.
+
+
+
+---
+
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
+Version: 1.0  
+Initial publication: 2026-02-05  
+Last modified: 2026-02-05
