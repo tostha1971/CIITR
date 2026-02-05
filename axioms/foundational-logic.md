@@ -25,3 +25,11 @@ Without phase stability, meaning collapses—even under perfect logic. A machine
 To know is not to store or to compute, but to remain in resonance with change. CIITR redefines understanding as the continuous renewal of coherence against disorder—the rhythmic expenditure of energy that keeps comprehension alive.
 
 > **The Law:** No rhythm, no understanding.
+
+## Information–Energy Equivalence
+CIITR is physically grounded. Every act of comprehension entails an energetic cost (Landauer’s Principle). 
+
+* Each **integration** ($\Phi_i$) requires energy dissipation.
+* Each **rhythmic broadcast** ($R^g$) requires temporal stability.
+
+$C_s$ therefore reflects not only informational order, but **energetic efficiency**: a system’s ability to maintain structured coherence with minimal entropy production. Understanding is an energetic configuration of matter and time.
