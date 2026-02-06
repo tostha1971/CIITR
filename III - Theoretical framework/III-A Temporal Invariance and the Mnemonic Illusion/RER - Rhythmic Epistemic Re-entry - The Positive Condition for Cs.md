@@ -55,7 +55,6 @@ This corroboration is strictly structural. No claim is made regarding the empiri
 Accordingly, the role of RER is exhaustively defined by its position in the CIITR ontology. It serves as the positive counterpart to the negative constraints articulated in CIITR 1.9, completing the boundary between systems that merely persist representations and systems capable of epistemic self-relation. Any future operationalization, simulation, or instrumentation of RER would be derivative of this structural definition and does not retroactively ground or justify it.
 
 The corroboration therefore establishes that RER is internally necessary, conceptually non-redundant, and formally sufficient as the positive condition for comprehension, without invoking or implying empirical support of any kind.
----
 
 
 
