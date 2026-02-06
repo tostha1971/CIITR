@@ -44,10 +44,12 @@ CIITR 1.9 defines the following boundary condition for evaluating synthetic and 
 $$
 R_{g}
 =
-\begin{cases}
-0 & \text{if return = retrieval} \\
-> 0 & \text{if return = reinterpretation}
-\end{cases}
+\left\{
+\begin{array}{ll}
+0     & \text{if return = retrieval} \\
+> 0   & \text{if return = reinterpretation}
+\end{array}
+\right.
 $$
 
 This boundary clarifies that comprehension requires curvature through the self, not linear reappearance of the past. The immediate consequence for AI evaluation is profound:
