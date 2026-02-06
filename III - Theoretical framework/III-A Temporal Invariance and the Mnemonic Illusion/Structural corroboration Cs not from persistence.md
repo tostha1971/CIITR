@@ -46,10 +46,7 @@ R_g = \begin{cases} 0 & \text{if return = retrieval} \\ > 0 & \text{if return = 
 $$
 
 
-| **Decision Boundary** |
-| :--- |
-| $\displaystyle R_g = \begin{cases} 0 & \text{if return = retrieval} \\ > 0 & \text{if return = reinterpretation} \end{cases}$ |
-
+$$ R_g = \begin{cases} 0 & \text{if return = retrieval} \\ >0, & \text{if return = reinterpretation} \end{cases} $$
 
 This boundary clarifies that comprehension requires curvature through the self, not linear reappearance of the past. The immediate consequence for AI evaluation is profound:
 
