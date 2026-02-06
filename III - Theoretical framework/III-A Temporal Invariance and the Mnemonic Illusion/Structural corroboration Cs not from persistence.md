@@ -41,8 +41,8 @@ Comprehension cannot be inferred from persistence. Stored information is epistem
 
 CIITR 1.9 defines the following boundary condition for evaluating synthetic and biological systems:
 
-<div style="text-align: center;">
-  ![Formel for R_g med cases](/img/Rg_cases.png)
+<div align="center">
+![Formel for R_g med cases](/img/Rg_cases.png)
 </div>
 
 This boundary clarifies that comprehension requires curvature through the self, not linear reappearance of the past. The immediate consequence for AI evaluation is profound:
