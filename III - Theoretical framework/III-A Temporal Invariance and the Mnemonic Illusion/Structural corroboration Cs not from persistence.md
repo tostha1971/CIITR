@@ -40,13 +40,9 @@ Comprehension cannot be inferred from persistence. Stored information is epistem
 ## Formalization as a Decision Boundary
 
 CIITR 1.9 defines the following boundary condition for evaluating synthetic and biological systems:
-
 <div align="center">
-
 ![Formel for R_g med cases](/img/Rg_cases.png)
-
 </div>
-
 This boundary clarifies that comprehension requires curvature through the self, not linear reappearance of the past. The immediate consequence for AI evaluation is profound:
 
 Systems that present prior information without demonstrable reinterpretation are epistemically flat. They exhibit persistence, not presence. Rhythm, not memory, is the condition of understanding.
