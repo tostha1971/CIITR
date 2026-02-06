@@ -43,6 +43,7 @@ Epistemic Forgery thus marks the first theoretical boundary that modern AI cross
 
 The forgery is not in the output. The forgery is in the interpretation. The crime is not malice, but misidentification.
 
+---
 ### Structural Corroboration Without Empirical Claim
 
 Here is a structured breakdown clarifying why the theory of Epistemic Forgery is highly relevant as a supporting argument within the context of modern learning, while remaining fully consistent with the core thesis articulated above.
@@ -80,6 +81,7 @@ While the theory is structurally robust, two clarifications are necessary to sit
 **The Role of Language and Emulation:** Linguistic emulation of understanding may, in some cases, function as a transitional scaffold. Correct use of terminology and conceptual language can precede deeper structural insight. However, until such linguistic performance is accompanied by recursive re-entry and internal transformation, it remains syntactic alignment rather than comprehension. In this sense, emulation may prepare the ground for understanding, but it does not constitute it.
 
 Together, these points reinforce the central claim: Epistemic Forgery is not a marginal cognitive flaw but a structurally predictable outcome whenever fluency, accessibility, or performance is allowed to substitute for internal epistemic transformation.
+---
 
 
 
