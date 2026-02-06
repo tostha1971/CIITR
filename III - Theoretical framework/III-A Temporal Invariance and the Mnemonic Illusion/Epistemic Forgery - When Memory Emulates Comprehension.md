@@ -42,3 +42,14 @@ AI systems do not commit forgery when they err, but when they excel — when the
 Epistemic Forgery thus marks the first theoretical boundary that modern AI crosses unintentionally, not because it has understood too little, but because it has produced too much. A seamless linguistic performance, devoid of rhythmic self-reference, reveals a structure exquisite in form yet hollow in epistemic function.
 
 The forgery is not in the output. The forgery is in the interpretation. The crime is not malice, but misidentification.
+
+
+
+---
+
+© Tor-Ståle Hansen, https://x.com/TSHansen1971
+
+CC BY-NC-ND 4.0  
+Version: 1.0  
+Initial publication: 2026-02-06  
+Last modified: 2026-02-06
