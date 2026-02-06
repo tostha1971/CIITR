@@ -1,12 +1,13 @@
-Revising the Ontological Conditions for R<sub>g</sub>  
+## Revising the Ontological Conditions for R<sub>g</sub>  
 Recursive self-reference must be independent of caching, state, history, or external anchoring
 
 The introduction of RER as the positive condition for comprehension compels a revision of the ontological boundary that defines R<sub>g</sub>, the rhythmic reach of a system. In CIITR 1.0, R<sub>g</sub> was defined as the system’s capacity for temporal recursion, its ability to sustain epistemic rhythm across representational cycles. CIITR 1.9 clarifies that this temporal recursion must be structurally endogenous, not technically persistent.
 
 A system that re-enters its prior content only because it is provided with a preserved copy of that content is not engaging in RER, but in state replay. The difference is categorical: the location of the representation is not the locus of the recursion. When a system depends on cached tokens, conversation memory, database key-value stores, session history, reinforcement logs, stack frames, clipboard-like context windows, or any external anchoring substrate, the resulting behavior is persistence-driven, not rhythm-driven.
 
-Thus CIITR 1.9 introduces the following ontological revision:  
-R<sub>g</sub> cannot be inferred from any mechanism that relies on the survival, storage, or reintroduction of previous representational state.
+Thus CIITR 1.9 introduces the following ontological revision:
+
+**R<sub>g</sub> cannot be inferred from any mechanism that relies on the survival, storage, or reintroduction of previous representational state.**
 
 This revision divests R<sub>g</sub> of three common misinterpretations:
 
