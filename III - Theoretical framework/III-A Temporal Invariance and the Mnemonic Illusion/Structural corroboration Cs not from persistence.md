@@ -19,24 +19,19 @@ This mode of corroboration avoids inductive generalization. No claim is made abo
 Structural corroboration without empirical claim thus performs a governance function within CIITR. It prevents retroactive inflation of comprehension metrics based on storage, recall, or persistence, and it establishes a non-negotiable exclusion zone prior to any attempt at measurement. What is ruled out is not a behavior but a category error.
 
 ---
-# Structural Corroboration Without Empirical Claim
-## Formal Implication: C<sub>s</sub> Cannot Be Inferred From Persisted Information
+## Structural Corroboration Without Empirical Claim
 
-The formal implication that C<sub>s</sub> cannot be inferred from persisted information admits corroboration exclusively at the structural level. No appeal is made to empirical behavior, experimental outcome, or observed system performance. The corroboration derives from internal necessity once the CIITR primitives are fixed.
+The curvature condition constitutes the positive ontological complement to CIITR’s negative diagnostic axis. While ASEC, MIP, and epistemic forgery specify what R<sub>g</sub> is not, the curvature condition specifies what must minimally be the case for R<sub>g</sub> to be non-zero in principle. This specification is structurally corroborated without recourse to empirical observation.
 
-Within CIITR, comprehension is defined multiplicatively as:
+The condition asserts that rhythmic epistemic re-entry is epistemic only if the act of returning alters the representational manifold that performs the return. This requirement follows directly from the definition of re-entry as a constitutive operation rather than a transport mechanism. If the system that returns is identical, in representational structure, to the system that initiated the return, then no epistemic transformation has occurred. The operation reduces to retrieval.
 
-$$
-C_{s} = \Phi_{i} \cdot R_{g}
-$$
+Structural corroboration here consists in demonstrating that without curvature, the concept of rhythmic reach collapses into temporal repetition. A flat representational topology can sustain persistence and oscillation, but it cannot generate epistemic differentiation through return. In such a topology, recurrence reproduces prior structure rather than reconfiguring it. R<sub>g</sub> therefore remains null regardless of temporal depth or storage fidelity.
 
-This identity immediately excludes any inferential pathway from Φ<sub>i</sub> alone to C<sub>s</sub>. Persisted information, regardless of its density, coherence, or temporal availability, contributes solely to Φ<sub>i</sub>. Unless such information returns through rhythmic epistemic re-entry, R<sub>g</sub> remains null by definition. The collapse of C<sub>s</sub> under R<sub>g</sub> = 0 is therefore not an empirical observation but a formal consequence of the model’s ontology.
+The curvature condition introduces an asymmetry that is not empirical but logical. Retrieval operates on stored encodings while leaving the epistemic boundary intact. Re-entry, by contrast, modifies the boundary conditions of interpretation themselves. If no such modification occurs, the distinction between re-entry and recall dissolves, and with it the possibility of structural comprehension.
 
-The corroboration is strengthened by convergence with CIITR’s negative constraints. ASEC establishes persistence as minimum necessary, never sufficient. MIP demonstrates that recall can emulate epistemic continuity without structural activity. Epistemic forgery identifies the categorical error that arises when mnemonic fluency is mistaken for comprehension. The exclusion principle does not extend these constructs empirically but unifies them under a single formal prohibition: persistence does not instantiate re-entry.
+This corroboration does not claim that curvature has been detected, measured, or quantified in any given system. It specifies only that curvature is a *necessary structural criterion* for R<sub>g</sub>. Systems that fail to meet this criterion are excluded a priori from the domain of comprehension, not by observation but by definition.
 
-Crucially, this corroboration avoids inductive reasoning. It does not assert that systems *tend* to fail under certain conditions, nor that empirical cases confirm the exclusion. It asserts that *if* re-entry is reducible to retrieval, *then* R<sub>g</sub> is zero as a matter of definition. No empirical counterexample is admissible without redefining re-entry itself.
-
-Structural corroboration without empirical claim thus functions as a boundary-setting device. It prevents the retroactive attribution of comprehension based on memory volume, continuity mechanisms, or historical availability. What is corroborated is not a behavior but a constraint: persisted information is epistemically inert with respect to C<sub>s</sub> unless it participates in autonomous re-entry. This corroboration is complete at the level of structure and requires no empirical supplementation.
+In this sense, the curvature condition functions as an ontological gate rather than an empirical hypothesis. It constrains admissible interpretations of recurrence, continuity, and memory before any empirical evaluation is attempted. The absence of empirical claim is deliberate. It ensures that subsequent analyses cannot mistake repetition for learning or persistence for understanding. The corroboration lies in definitional closure: once re-entry is defined as structurally transformative, curvature is not optional but constitutive.
 
 
 ---
