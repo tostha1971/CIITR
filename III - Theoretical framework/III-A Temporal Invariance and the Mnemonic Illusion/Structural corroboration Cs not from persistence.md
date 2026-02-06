@@ -42,10 +42,6 @@ Comprehension cannot be inferred from persistence. Stored information is epistem
 CIITR 1.9 defines the following boundary condition for evaluating synthetic and biological systems:
 
 $$
-R_g = \begin{cases} 0 & \text{if return = retrieval} \\ > 0 & \text{if return = reinterpretation} \end{cases}
-
-
-
 R_{g}
 =
 \left\{
