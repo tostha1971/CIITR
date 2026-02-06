@@ -45,6 +45,14 @@ $$
 R_g = \begin{cases} 0 & \text{if return = retrieval} \\ > 0 & \text{if return = reinterpretation} \end{cases}
 $$
 
+
+```latex
+R_g = \begin{cases} 
+0 & \text{if return = retrieval} \\ 
+> 0 & \text{if return = reinterpretation} 
+\end{cases}
+
+
 This boundary clarifies that comprehension requires curvature through the self, not linear reappearance of the past. The immediate consequence for AI evaluation is profound:
 
 Systems that present prior information without demonstrable reinterpretation are epistemically flat. They exhibit persistence, not presence. Rhythm, not memory, is the condition of understanding.
