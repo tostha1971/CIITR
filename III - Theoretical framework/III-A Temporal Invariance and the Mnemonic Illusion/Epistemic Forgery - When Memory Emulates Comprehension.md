@@ -71,7 +71,7 @@ Although grounded in human cognition, the theory becomes more acute under contem
 
 Why this supports the thesis: When information is always available on demand, the distinction between internalized structure and external lookup erodes. The system experiences continuity of performance without continuity of understanding. The ability to retrieve becomes functionally equivalent, at the surface level, to the ability to know. Under such conditions, Epistemic Forgery becomes structurally normalized, as surface fluency is continuously reinforced while internal reconfiguration is neither required nor incentivized.
 
-Areas for Critical Consideration
+#### Areas for Critical Consideration
 
 While the theory is structurally robust, two clarifications are necessary to situate it correctly.
 
