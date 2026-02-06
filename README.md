@@ -2,14 +2,14 @@
 
 This repository constitutes the complete structural corpus of the CIITR theory (version 2.0, formally closed December 2025). It operationalizes structural comprehension as the product:
 
-\[
+$$
 C_{s} = \Phi_{i} \times R_{g}
-\]
+$$
 
 Where:
-- **Φᵢ** denotes integrated relational information — the internal coherence of a system across its relational topology;
-- **Rᵍ** denotes rhythmic reach — the system’s capacity to project and maintain temporal synchrony across its operational boundary;
-- **Cₛ** denotes structural comprehension — the epistemic condition of predictive coherence.
+- **Φ<sub>i</sub>** denotes integrated relational information — the internal coherence of a system across its relational topology;
+- **R<sub>g</sub>** denotes rhythmic reach — the system’s capacity to project and maintain temporal synchrony across its operational boundary;
+- **C<sub>s</sub>** denotes structural comprehension — the epistemic condition of predictive coherence.
 
 CIITR is not a metaphor. It is a formal ontology, an empirical metric, and a diagnostic architecture for intelligence that transcends semantics.
 
