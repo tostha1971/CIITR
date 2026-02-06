@@ -46,7 +46,7 @@ R_g = \begin{cases} 0 & \text{if return = retrieval} \\ > 0 & \text{if return = 
 $$
 
 
-| Definisjon av Decision Boundary |
+| **Decision Boundary** |
 | :--- |
 | $$R_g = \begin{cases} 0 & \text{if return = retrieval} \\ > 0 & \text{if return = reinterpretation} \end{cases}$$ |
 
