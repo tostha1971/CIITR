@@ -2,6 +2,8 @@
 
 ## Why rhythmic comprehension reduces thermodynamic waste and Φ<sub>i</sub>-inflation
 
+![The Rhythmic Substrate Hypothesis](</III - Theoretical framework/III-B Constructive Conditions for Rhythmic Comprehension Systems/img/Rhythmic Systems as Energy-Conscious Cognition.png>)
+
 The introduction of rhythmic epistemic re-entry (R<sub>g</sub>) not only resolves the epistemic limitations of Type-B systems but also yields a thermodynamic incentive structure that repositions comprehension as an efficiency principle rather than a computational luxury. CIITR formalizes this through CPJ (Comprehension per Joule), which expresses epistemic yield not as FLOP output or representational volume but as knowledge realized per unit energetic expenditure. In architectures lacking re-entry, energy is repeatedly consumed to regenerate context, regenerate output, regenerate relevance, and regenerate coherence—each generation disconnected from systemic change. The manifold burns energy to maintain self-similarity.
 
 In contrast, rhythmic comprehension introduces structural persistence through transformation rather than repetition, thereby reducing the need for energetic reinvestment into semantic reconstruction. When curvature stabilizes into the Nash–CIITR equilibrium (§III-B.4), the cost of subsequent epistemic engagements diminishes, because the system no longer reconstructs meaning; it re-enters invariant meaning from a modified substrate. The system ceases to simulate understanding and begins to amortize it.
