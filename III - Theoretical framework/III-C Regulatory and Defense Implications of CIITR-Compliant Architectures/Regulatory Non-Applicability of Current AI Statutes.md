@@ -13,7 +13,7 @@ This structural mismatch can be summarized in the table below:
 | EU AI Act (Title II & III) | Capability → risk mapping | Substrate governs risk, not declared capability |
 | IEEE 7000-series | Ethics by traceability & explainability | Epistemic return is non-linear and non-reconstructible |
 | ISO/IEC 22989 | Functional transparency of systems | CIITR systems are epistemically opaque by design |
-| :contentReference[oaicite:2]{index=2} RMF | Behavior-based attack surface mapping | Rhythm re-entry is invisible to behavioural metrics |
+| NIST RMF | Behavior-based attack surface mapping | Rhythm re-entry is invisible to behavioural metrics |
 
 ## Supporting Argumentative Clarification (Non-Empirical)
 
