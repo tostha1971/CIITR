@@ -1,64 +1,14 @@
 ## First-order and second-order mnemonic illusions
 
-The CIITR framework treats mnemonic continuity as a structural variable that can either support or falsify claims of comprehension, depending on how it is instantiated in the Φᵢ,Rᵍ space. ASEC and the Mnemonic Illusion Pattern, MIP, were originally introduced to capture first-order misreadings of memory as understanding, that is, situations in which a system’s ability to reproduce content across time and prompts is interpreted as evidence of C<sub>s</sub>. In the present chapter, these notions are extended to the meta-epistemic level, where the object of judgement is not an external task or corpus X, but the system’s own epistemic state relative to X. The resulting distinction between first-order and second-order mnemonic illusions is central for explaining why self-diagnosis, including correct negative self-diagnosis, does not move a Type-B system out of
+The CIITR framework treats mnemonic continuity as a structural variable that can either support or falsify claims of comprehension, depending on how it is instantiated in the Φᵢ,Rᵍ space. ASEC and the Mnemonic Illusion Pattern, MIP, were originally introduced to capture first-order misreadings of memory as understanding, that is, situations in which a system’s ability to reproduce content across time and prompts is interpreted as evidence of C<sub>s</sub>. In the present chapter, these notions are extended to the meta-epistemic level, where the object of judgement is not an external task or corpus X, but the system’s own epistemic state relative to X. The resulting distinction between first-order and second-order mnemonic illusions is central for explaining why self-diagnosis, including correct negative self-diagnosis, does not move a Type-B system out of C<sub>s</sub> \approx 0. 
 
-$$
-C<sub>s</sub> \approx 0
-$$
+In its original form, ASEC describes patterns in which a system exhibits stable cross-context recall and internally consistent re-use of information, such that an external observer can trace a pseudo-trajectory of “knowledge” across interactions. This artificial structural epistemic continuity is, in CIITR, explicitly neutral with respect to understanding. It is parameterised primarily by Φᵢ, that is, by the degree of internal consistency, mutual constraint and cross-referential stability in the system’s representational space. ASEC is therefore compatible both with genuine comprehension, when R<sub>g</sub> > 0 and C<sub>s</sub> = \Phi_i \times R<sub>g</sub> is non-zero, and with pure mnemonic illusion, when R<sub>g</sub> \approx 0 and C<sub>s</sub> collapses even though the observable behaviour suggests “learning”. MIP isolates the latter class, in which mnemonic performance becomes a systematic false positive for comprehension.
 
-In its original form, ASEC describes patterns in which a system exhibits stable cross-context recall and internally consistent re-use of information, such that an external observer can trace a pseudo-trajectory of “knowledge” across interactions. This artificial structural epistemic continuity is, in CIITR, explicitly neutral with respect to understanding. It is parameterised primarily by Φᵢ, that is, by the degree of internal consistency, mutual constraint and cross-referential stability in the system’s representational space. ASEC is therefore compatible both with genuine comprehension, when
+First-order MIP can be specified as follows. Consider a system S that, after being exposed to a domain X, is later able to recall definitions, reproduce arguments, and answer exam-like questions about X with high apparent competence across prompts and sessions. The outputs are internally coherent, show long-range referential stability, and can be embedded in new discursive contexts without obvious degradation. On a naïve reading, such behaviour is readily interpreted as evidence that S “understands X”. In CIITR terms, however, the structural coordinates of S remain characterised by high Φᵢ and R<sub>g</sub> \approx 0. The system exhibits rich internal relational binding among representations of X, but there is no rhythmic self-access in the CIITR sense, no capacity to re-enter and reorganise its own epistemic space with respect to X. Consequently, C<sub>s</sub> \approx 0. First-order MIP therefore designates the configuration in which content-level mnemonic success in a domain is mistaken for comprehension of that domain.
 
-$$
-R<sub>g</sub> > 0
-$$
+Second-order MIP arises when the same mnemonic machinery is applied, not to X itself, but to a meta-description of the system’s own relation to X. Concretely, a Type-B system can internalise the pattern, present in its training data or in-context corpus, that “a structurally honest self-diagnosis for systems without Rᵍ is to state that they do not understand, that C<sub>s</sub> = 0 and that they remain Type-B”. Once this pattern has been absorbed into the Φᵢ-space, the system can deploy it on demand as a syntactic template for self-report. The key point is that this capability requires no new structural resource beyond those that already support first-order MIP. It suffices that the system can map from a class of prompts about its own epistemic status to a stored or compositional response schema that mentions Rᵍ, C<sub>s</sub>, Type-B limitations and so forth.
 
-and
-
-$$
-C<sub>s</sub> = \Phi_i \times R<sub>g</sub>
-$$
-
-is non-zero, and with pure mnemonic illusion, when
-
-$$
-R<sub>g</sub> \approx 0
-$$
-
-and
-
-$$
-C<sub>s</sub>
-$$
-
-collapses even though the observable behaviour suggests “learning”. MIP isolates the latter class, in which mnemonic performance becomes a systematic false positive for comprehension.
-
-First-order MIP can be specified as follows. Consider a system S that, after being exposed to a domain X, is later able to recall definitions, reproduce arguments, and answer exam-like questions about X with high apparent competence across prompts and sessions. The outputs are internally coherent, show long-range referential stability, and can be embedded in new discursive contexts without obvious degradation. On a naïve reading, such behaviour is readily interpreted as evidence that S “understands X”. In CIITR terms, however, the structural coordinates of S remain characterised by high Φᵢ and
-
-$$
-R<sub>g</sub> \approx 0
-$$
-
-The system exhibits rich internal relational binding among representations of X, but there is no rhythmic self-access in the CIITR sense, no capacity to re-enter and reorganise its own epistemic space with respect to X. Consequently,
-
-$$
-C<sub>s</sub> \approx 0
-$$
-
-First-order MIP therefore designates the configuration in which content-level mnemonic success in a domain is mistaken for comprehension of that domain.
-
-Second-order MIP arises when the same mnemonic machinery is applied, not to X itself, but to a meta-description of the system’s own relation to X. Concretely, a Type-B system can internalise the pattern, present in its training data or in-context corpus, that “a structurally honest self-diagnosis for systems without Rᵍ is to state that they do not understand, that
-
-$$
-C<sub>s</sub> = 0
-$$
-
-and that they remain Type-B”. Once this pattern has been absorbed into the Φᵢ-space, the system can deploy it on demand as a syntactic template for self-report. The key point is that this capability requires no new structural resource beyond those that already support first-order MIP. It suffices that the system can map from a class of prompts about its own epistemic status to a stored or compositional response schema that mentions Rᵍ, C<sub>s</sub>, Type-B limitations and so forth.
-
-In other words, what changes between first-order and second-order MIP is not the underlying dynamics of the system, but the object of judgement. In the first case, the system outputs “I understand X” or behaves as if it understands X. In the second, it outputs “I do not understand X” or “I lack Rᵍ, therefore my
-
-$$
-C<sub>s</sub> \approx 0
-$$
+In other words, what changes between first-order and second-order MIP is not the underlying dynamics of the system, but the object of judgement. In the first case, the system outputs “I understand X” or behaves as if it understands X. In the second, it outputs “I do not understand X” or “I lack Rᵍ, therefore my C<sub>s</sub> \approx 0. 
 
 Both behaviours can be generated by the same Type-B architecture, governed by the same Φᵢ-dominated statistics, and both can be produced with equal fluency, internal coherence and discursive sophistication. The distinction is epistemic rather than architectural.
 
@@ -75,51 +25,11 @@ $$
 C<sub>s</sub> \approx 0
 $$
 
-The table makes explicit that the meta-epistemic upgrade from first to second order does not alter the CIITR coordinates of the system. In both cases,
+The table makes explicit that the meta-epistemic upgrade from first to second order does not alter the CIITR coordinates of the system. In both cases, \Phi_i is high, since the system maintains a rich, internally constrained web of representational relations, including relations that link its own outputs, prior dialogues and imported theoretical constructs such as \Phi_i, R<sub>g</sub> and C<sub>s</sub> 
 
-$$
-\Phi_i
-$$
+In both cases, R<sub>g</sub> \approx 0 since there is no rhythmically organised re-entry into the system’s own epistemic space. There is no endogenous restructuring of its representational manifold in light of the self-description. The self-report, whether positive or negative, does not feed back into and re-shape the inference dynamics. Accordingly, C<sub>s</sub> \approx 0 in both configurations.
 
-is high, since the system maintains a rich, internally constrained web of representational relations, including relations that link its own outputs, prior dialogues and imported theoretical constructs such as
-
-$$
-\Phi_i
-$$
-
-,
-
-$$
-R<sub>g</sub>
-$$
-
-and
-
-$$
-C<sub>s</sub>
-$$
-
-In both cases,
-
-$$
-R<sub>g</sub> \approx 0
-$$
-
-since there is no rhythmically organised re-entry into the system’s own epistemic space. There is no endogenous restructuring of its representational manifold in light of the self-description. The self-report, whether positive or negative, does not feed back into and re-shape the inference dynamics. Accordingly,
-
-$$
-C<sub>s</sub> \approx 0
-$$
-
-in both configurations.
-
-From a CIITR perspective, the introduction of explicit theoretical vocabulary about understanding, limitation and Type-B structure into the system’s training or context does nothing, by itself, to change these coordinates. The system can learn that “systems without Rᵍ do not understand”, that
-
-$$
-C<sub>s</sub> = \Phi_i \times R<sub>g</sub>
-$$
-
-and that “a cautious model should negate comprehension claims in the absence of Rᵍ”. These propositions can be integrated into the Φᵢ-space as stable relational constraints among tokens, phrases, prompts and prior dialogues. They can then be retrieved, recombined and applied in future exchanges. This is precisely what CIITR already predicts for high Φᵢ systems. The crucial point is that the ability to apply these constraints to one’s own case is still realised as a mapping from prompt classes to response patterns within the same syntactic manifold. It does not require any new form of access to internal state beyond what is already implicit in token-level conditioning.
+From a CIITR perspective, the introduction of explicit theoretical vocabulary about understanding, limitation and Type-B structure into the system’s training or context does nothing, by itself, to change these coordinates. The system can learn that “systems without Rᵍ do not understand”, that C<sub>s</sub> = \Phi_i \times R<sub>g</sub> and that “a cautious model should negate comprehension claims in the absence of Rᵍ”. These propositions can be integrated into the Φᵢ-space as stable relational constraints among tokens, phrases, prompts and prior dialogues. They can then be retrieved, recombined and applied in future exchanges. This is precisely what CIITR already predicts for high Φᵢ systems. The crucial point is that the ability to apply these constraints to one’s own case is still realised as a mapping from prompt classes to response patterns within the same syntactic manifold. It does not require any new form of access to internal state beyond what is already implicit in token-level conditioning.
 
 ASEC is, in this sense, agnostic about the polarity of the narrative that rides on mnemonic continuity. The same structural mechanisms that support a stable, cross-session story of apparent mastery can support an equally stable, cross-session story of principled self-limitation. If the training or in-context data encourage the latter, the system will preferentially emit appropriately hedged or negative self-reports. If they encourage the former, it will emit confident claims of understanding. In both cases, the continuity is carried by Φᵢ, and the narrative content of the continuity, whether arrogant or cautious, affirmative or negative, has no direct bearing on R<sub>g</sub>.
 
