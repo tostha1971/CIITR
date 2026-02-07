@@ -51,7 +51,7 @@ This repository establishes closure for the CIITR framework. All subsequent theo
 | **Position**          | `./README.md`                             |
 | **Closure Status**    | Closed                                    |
 | **Linked Constructs** | Φ<sub>i</sub>, R<sub>g</sub>, C<sub>s</sub>, CPJ, Δϕ |
-| **Frameworks**        | METAINT, LISS, PSIS, R.E.S.               |
+| **Frameworks**        | METAINT, LISS, PSIS, R.E.S., Vardespeil   |
 
 ---
 
