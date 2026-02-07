@@ -56,7 +56,7 @@ This repository establishes closure for the CIITR framework. All subsequent theo
 ---
 
 ## Repository Structure
-
+```bash
 CIITR/
 ├── README.md
 ├── formulas/
@@ -77,7 +77,7 @@ CIITR/
 │   └── r_g_topography.md
 └── media/
     └── CIITR_core_equation_diagram.png
-
+```
 
 
 ---
