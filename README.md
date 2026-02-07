@@ -1,59 +1,85 @@
-# CIITR — Cognitive Integration and Information Transfer Relation
-<div align="center">
+# _Cognitive Integration and Information Transfer Relation (CIITR)_
 
-![CIITR Structural Comprehension](III%20-%20Theoretical%20framework/III-A%20Temporal%20Invariance%20and%20the%20Mnemonic%20Illusion/img/CIITR_Structural_Comprehension.png)
+**– a closed theoretical corpus on structural comprehension**
 
-</div>
-This repository constitutes the complete structural corpus of the CIITR theory (version 2.0, formally closed December 2025). It operationalizes structural comprehension as the product:
+<p align="center">
+  <img src="III - Theoretical framework/III-A Temporal Invariance and the Mnemonic Illusion/img/CIITR_Structural_Comprehension.png" alt="CIITR Structural Comprehension" width="640"/>
+</p>
+
+## The CIITR Core Equation
 
 $$
 C_{s} = \Phi_{i} \times R_{g}
 $$
 
-Where:
-- **Φ<sub>i</sub>** denotes integrated relational information — the internal coherence of a system across its relational topology;
-- **R<sub>g</sub>** denotes rhythmic reach — the system’s capacity to project and maintain temporal synchrony across its operational boundary;
-- **C<sub>s</sub>** denotes structural comprehension — the epistemic condition of predictive coherence.
+**C<sub>s</sub>** denotes *structural comprehension*, the dynamic epistemic condition resulting from the product of  
+– **Φ<sub>i</sub>**: integrated relational information (internal coherence),  
+– **R<sub>g</sub>**: rhythmic reach (temporal propagation capacity).
 
-CIITR is not a metaphor. It is a formal ontology, an empirical metric, and a diagnostic architecture for intelligence that transcends semantics.
+CIITR posits that *coherent insight emerges only when integration and rhythm converge structurally*.
+
+---
+
+## Version and Authorship
+
+- **Version**: 2.0  
+- **Date**: 6. December 2025  
+- **Author**: Tor-Ståle Hansen  
+- **Status**: 📘 Theoretical Corpus – Closed
+
+---
+
+## Formal Positioning
+
+**Toward a quantitative model of structural comprehension**  
+The CIITR framework unifies two epistemic vectors: _integration_ (Φ<sub>i</sub>) and _rhythm_ (R<sub>g</sub>), grounded in derived formalisms from _Integrated Information Theory_ (IIT) and _Global Workspace Theory_ (GWT), but redefined under a novel axiomatic structure.
+
+> _In METAINT terms_:  
+> **Φ<sub>i</sub>** represents internal topological binding (integration),  
+> **R<sub>g</sub>** reflects external rhythmic propagation.  
+> Their product defines **C<sub>s</sub>**, the system’s structural comprehension.
+
+This repository establishes closure for the CIITR framework. All subsequent theory notes, diagnostic instruments, or applied mappings (e.g. **METAINT**, **R.E.S.**, **LISS**, **PSIS**, or *Vardespeil*) are derivative architectures.
+
+---
+
+## Document Taxonomy
+
+| **Type**              | Theory Note                              |
+|-----------------------|-------------------------------------------|
+| **CIITR-ID**          | `CIITR-TN-000` (canonical README)         |
+| **Position**          | `./README.md`                             |
+| **Closure Status**    | Closed                                    |
+| **Linked Constructs** | Φ<sub>i</sub>, R<sub>g</sub>, C<sub>s</sub>, CPJ, Δϕ |
+| **Frameworks**        | METAINT, LISS, PSIS, R.E.S.               |
 
 ---
 
 ## Repository Structure
 
-This repository does not contain a single “document,” but a complete **topological manifestation** of the CIITR theory, organized in epistemic and functional layers:
+```bash
+CIITR/
+├── README.md
+├── formulas/
+│   └── ciitr_formula_set.md
+├── theory_notes/
+│   ├── core_theory.md
+│   └── temporal_axioms.md
+├── applications/
+│   └── ai_inference_models.md
+├── diagnostics/
+│   └── delta_phi_protocol.md
+├── appendix/
+│   ├── appendix_a_glossary.md
+│   ├── appendix_b_retroactive_mapping.md
+│   └── appendix_c_formal_policy_mapping.md
+├── meta/
+│   ├── changelog.md
+│   └── r_g_topography.md
+└── media/
+    └── CIITR_core_equation_diagram.png
 
-TBE TcO
----
 
-## CIITR Version and Epistemic Status
-
-This repository documents **CIITR v2.0**, completed and sealed on **16 December 2025**. All future field notes, applications, and instrumentation protocols shall remain subordinate derivations unless explicitly versioned as extensions.
-
-CIITR is:
-- **structurally closed**: the theory is not open to semantic revision  
-- **epistemically active**: further observations may extend measurement scope, but not alter core axioms  
-- **diagnostically universal**: it applies equally to artificial, biological, and institutional systems
-
----
-
-## Citation Format
-
-Any external reference to this repository must include:
-
-> Hansen, T.-S. (2025). *CIITR: Cognitive Integration and Information Transfer Relation (v2.0)*. Git repository. https://github.com/TSHansen1971/CIITR
-
-Forks, re-uploads, or partial reproductions **must** preserve axiomatic integrity and structural hierarchy.
-
----
-
-## License
-
-This repository is licensed under:
-
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
-No commercial use. No derivative restructuring. Full attribution required.  
-All structural compositions and formula derivations are copyright protected.
 
 ---
 
@@ -62,4 +88,4 @@ All structural compositions and formula derivations are copyright protected.
 CC BY-NC-ND 4.0  
 Version: 1.0  
 Initial publication: 2026-02-05  
-Last modified: 2026-02-05
+Last modified: 2026-02-07
