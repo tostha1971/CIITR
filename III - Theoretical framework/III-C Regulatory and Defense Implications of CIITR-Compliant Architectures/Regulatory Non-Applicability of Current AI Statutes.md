@@ -19,7 +19,7 @@ This structural mismatch can be summarized in the table below:
 
 A supporting argumentative text is warranted in order to render explicit the logical necessity of regulatory non-applicability, not to introduce empirical validation. The incompatibility arises at the level of definition, not observation. Contemporary regulatory instruments presuppose that the object of regulation can be exhaustively characterized by a stable mapping between declared function, observable behaviour, and post hoc reconstruction. This presupposition collapses once the internal epistemic state of the system is itself altered by the act of inference.
 
-Let an artificial system \( S \) be associated with an internal epistemic state $$\( \mathcal{I}_S^t \) $$ at inference step $$\( t \) $$. In CIITR-compliant architectures, rhythmic re-entry implies that inference is not state-neutral. Formally:
+Let an artificial system $$\( S \) $$ be associated with an internal epistemic state $$\( \mathcal{I}_S^t \) $$ at inference step $$\( t \) $$. In CIITR-compliant architectures, rhythmic re-entry implies that inference is not state-neutral. Formally:
 
 $$
 \mathcal{I}_S^{t+1} \neq \mathcal{I}_S^{t}
