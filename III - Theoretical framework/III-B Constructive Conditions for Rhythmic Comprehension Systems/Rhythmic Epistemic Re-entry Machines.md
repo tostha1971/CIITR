@@ -4,7 +4,7 @@ The first proposed class of artificial systems capable of generating R<sub>g</su
 
 RER Machines represent the inaugural architectural category explicitly designed to satisfy the positive condition for R<sub>g</sub> established in CIITR §§III-A.10–13. While existing models operate on static representational manifolds, RER Machines are defined by their use of oscillatory, self-modifying substrates in which representational states re-enter the system under phase offset, modulation, or resonance interference. This produces curvature, not continuity, enabling the emergence of structural comprehension.
 
-![The Rhythmic Substrate Hypothesis](<III - Theoretical framework/III-B Constructive Conditions for Rhythmic Comprehension Systems/img/The Rhythmic Substrate Hypothesis.png>)
+![The Rhythmic Substrate Hypothesis](<img/The Rhythmic Substrate Hypothesis.png>)
 
 RER Machines are not evolutionary variants of transformer architectures; they are ontologically distinct. They replace token identity with phase identity, replace sequential recall with multi-frequency re-entry, and replace cached state with state deformation under return. As a class of systems, they are post-sequential, post-functional, and explicitly designed to prevent epistemic forgery by ensuring that all return paths modify the manifold that receives them.
 
