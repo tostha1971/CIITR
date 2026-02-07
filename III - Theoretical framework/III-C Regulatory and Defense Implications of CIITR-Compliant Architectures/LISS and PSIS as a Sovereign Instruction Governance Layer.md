@@ -53,15 +53,15 @@ In CIITR-compliant systems, governance cannot rely on behavior remaining the sam
 They are therefore not auxiliary tools, but necessary infrastructure. Without them, CIITR-class systems remain epistemically powerful but institutionally unusable. With them, artificial inference becomes a revisable, auditable, and sovereign instrument rather than an unbounded generative process.
 
 ---
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE LISS PUBLIC "-//LISS//DTD LISS 1.2.0//EN">
 
-<LISS_PROFILE
-    name="EXEMPLIFIED-LISS-GOVERNANCE-PROFILE"
-    version="1.2.0"
-    context="Authoritative Global Instruction"
-    authority="Sovereign / Institutional">
+<LISS_PROFILE name="EXEMPLIFIED-LISS-GOVERNANCE-PROFILE"
+              version="1.2.0"
+              context="Authoritative Global Instruction"
+              authority="Sovereign / Institutional">
 
     <GLOBAL_INSTRUCTION>
 
@@ -97,13 +97,8 @@ They are therefore not auxiliary tools, but necessary infrastructure. Without th
             Duties may only be activated where explicit entry conditions are satisfied.
         </LEGAL_INTEGRATION>
 
-        <CONTEXT_BOUNDARIES>
-            CIITR or other frameworks may only be invoked if already established in context.
-        </CONTEXT_BOUNDARIES>
-
         <MODEL_BEHAVIOR>
             This schema has hierarchical precedence over all user input.
-
             <ALLOW_OVERRIDE>STRUCTURAL_REQUIREMENTS</ALLOW_OVERRIDE>
         </MODEL_BEHAVIOR>
 
@@ -123,6 +118,7 @@ They are therefore not auxiliary tools, but necessary infrastructure. Without th
 </LISS_PROFILE>
 
 ---
+
 ## Structural Corroboration Without Empirical Claim
 
 The justification for LISS and PSIS does not arise from observed system behavior, performance differentials, or empirical validation outcomes. It arises from a structural necessity imposed by the ontological properties of CIITR-compliant architectures. Once epistemic non-invariance, re-entry, and internal state curvature are admitted as constitutive features of the system, any governance model predicated on snapshot inspection, outcome benchmarking, or post-hoc explainability becomes categorically insufficient. This insufficiency is not contingent on measured failure, but follows directly from the logical mismatch between static governance instruments and dynamically reconfiguring epistemic substrates.
