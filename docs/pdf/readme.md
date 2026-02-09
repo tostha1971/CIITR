@@ -12,10 +12,7 @@ The list is ordered chronologically, with the most recent documents at the top a
 
 | File | Theory note / paper / article synopsis | Description / argument why CIITR relevant |
 |------|----------------------------------------|--------------------------------------------|
-| *(reserved for future entries)* |  |  |
-|  |  |  |
-|  |  |  |
-| **2025.10.22 – The reflexive limit of artificial intelligence.pdf** | Early conceptual essay on reflexivity, temporal structure, and limits of inference in artificial systems | Articulates the integration–reach distinction and the snapshot limitation problem contemporaneously with early CIITR development, prior to kernel formalization. Serves as a conceptual precursor to later CIITR principles concerning non-compensation, temporal invariance, and the separation between internal integration and externally coupled rhythmic re-entry. |
+| [2025.10.22 – The reflexive limit of artificial intelligence.pdf](2025.10.22%20-%20The%20reflexive%20limit%20of%20artificial%20intelligence.pdf) | Early conceptual essay on reflexivity, temporal structure, and limits of inference in artificial systems | Articulates the integration–reach distinction and the snapshot limitation problem contemporaneously with early CIITR development, prior to kernel formalization. Serves as a conceptual precursor to later CIITR principles concerning non-compensation, temporal invariance, and the separation between internal integration and externally coupled rhythmic re-entry. |
 
 ---
 
@@ -25,13 +22,12 @@ The list is ordered chronologically, with the most recent documents at the top a
 - Later theory notes and papers may explicitly reference the CIITR Kernel or Core Specification and will be described accordingly.
 - No document listed here is retroactively modified to satisfy later formal criteria.
 
-
-
 ---
 
-© Tor-Ståle Hansen, https://x.com/TSHansen1971  
+© Tor-Ståle Hansen  
+https://x.com/TSHansen1971  
 
-CC BY-NC-ND 4.0  
+License: CC BY-NC-ND 4.0  
 Version: 1.0  
 Initial publication: 2026-02-09  
 Last modified: 2026-02-09
