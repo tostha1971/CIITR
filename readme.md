@@ -45,6 +45,22 @@ It specifies the boundary condition under which a system may be said to instanti
 
 ---
 
+## Public Change Log
+
+The table below records publicly visible structural publications and revisions within the CIITR repository.  
+Entries reflect **normative releases**, clarifications, or structural additions.  
+Editorial drafts and private manuscript material are explicitly excluded.
+
+| Date       | Version | Component           | Change Type        | Description |
+|------------|---------|---------------------|--------------------|-------------|
+| 2026-02-09 | 1.0     | Repository Root     | Initial Publication | Public release of the CIITR repository as a canonical entry point. |
+| 2026-02-09 | 2.0     | CIITR Core Spec     | Core Definition    | Publication of the CIITR Kernel (Core Specification), establishing the formal ontological boundary of the theory. |
+| 2026-02-09 | 2.0     | Documentation Layer | Structural Clarification | Separation of core specification, auxiliary documentation, and assets to enforce normative authority of the Core Spec. |
+
+Future entries will document the publication of theory notes, formal papers, and additional CIITR-aligned analytical material.
+
+---
+
 ## Current Public Contents
 
 At present the repository exposes the **CIITR Kernel**, also called the *Core Specification*.
